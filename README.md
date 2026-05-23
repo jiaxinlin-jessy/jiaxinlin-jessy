@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3500&pause=1200&color=6A9FB5&center=true&vCenter=true&width=600&height=40&lines=Building+tomorrow's+devices%2C+one+layer+at+a+time.)](https://git.io/typing-svg)
+<img src="./header.svg" width="100%"/>
 
 # JiaxinLin (林嘉馨)
 
