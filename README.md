@@ -1,6 +1,10 @@
-<div align="center">
+<div align="center" style="overflow:hidden; max-height:140px;">
 
 <img src="./header.svg" width="100%"/>
+
+</div>
+
+<div align="center">
 
 # JiaxinLin (林嘉馨)
 
