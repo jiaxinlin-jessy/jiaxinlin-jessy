@@ -1,0 +1,62 @@
+<svg width="100%" viewBox="0 0 680 280" xmlns="http://www.w3.org/2000/svg" role="img">
+  <title>JiaxinLin profile header</title>
+  <desc>Matrix rain of element symbols with profile text overlay</desc>
+
+  <style>
+    @keyframes fall0 { 0%{opacity:0;transform:translateY(-20px)} 10%{opacity:0.35} 80%{opacity:0.18} 100%{opacity:0;transform:translateY(260px)} }
+    @keyframes fall1 { 0%{opacity:0;transform:translateY(-20px)} 15%{opacity:0.28} 75%{opacity:0.15} 100%{opacity:0;transform:translateY(260px)} }
+    @keyframes fall2 { 0%{opacity:0;transform:translateY(-20px)} 20%{opacity:0.32} 85%{opacity:0.12} 100%{opacity:0;transform:translateY(260px)} }
+    .col { font-family: monospace; font-size: 13px; fill: #6A9FB5; writing-mode: vertical-rl; animation-timing-function: linear; animation-iteration-count: infinite; }
+
+    @keyframes typing {
+      0%,18%  { opacity: 0 }
+      20%,43% { opacity: 1 }
+      45%,48% { opacity: 0 }
+      50%,68% { opacity: 0 }
+      70%,93% { opacity: 1 }
+      95%,100%{ opacity: 0 }
+    }
+    .line1 { animation: show1 8s ease infinite; }
+    .line2 { animation: show2 8s ease infinite; }
+    .line3 { animation: show3 8s ease infinite; }
+    .line4 { animation: show4 8s ease infinite; }
+
+    @keyframes show1 { 0%{opacity:1} 22%{opacity:1} 25%{opacity:0} 100%{opacity:0} }
+    @keyframes show2 { 0%{opacity:0} 24%{opacity:0} 27%{opacity:1} 47%{opacity:1} 50%{opacity:0} 100%{opacity:0} }
+    @keyframes show3 { 0%{opacity:0} 49%{opacity:0} 52%{opacity:1} 72%{opacity:1} 75%{opacity:0} 100%{opacity:0} }
+    @keyframes show4 { 0%{opacity:0} 74%{opacity:0} 77%{opacity:1} 97%{opacity:1} 100%{opacity:0} }
+  </style>
+
+  <rect width="680" height="280" fill="#ffffff"/>
+
+  <g opacity="0.7">
+    <text class="col" x="18"  y="10" style="animation: fall0 4.1s 0.0s infinite">Si·Ge·Ti·Fe·Mo·W·Cu·Zn·Al</text>
+    <text class="col" x="48"  y="10" style="animation: fall1 5.2s 0.7s infinite">Pb·Pt·Au·Ag·Ni·Co·Cr·V·Mn</text>
+    <text class="col" x="78"  y="10" style="animation: fall2 3.8s 1.3s infinite">Bi·Sb·In·Ga·Sn·Hf·Zr·Ta·Nb</text>
+    <text class="col" x="108" y="10" style="animation: fall0 4.7s 0.4s infinite">Se·Te·S·O·N·C·H·P·B·F·Cl</text>
+    <text class="col" x="138" y="10" style="animation: fall1 3.5s 1.9s infinite">La·Ce·Pr·Nd·Sm·Eu·Gd·Tb·Dy</text>
+    <text class="col" x="168" y="10" style="animation: fall2 5.8s 0.2s infinite">Sr·Ba·Ca·Mg·Be·Li·Na·K·Rb</text>
+    <text class="col" x="198" y="10" style="animation: fall0 4.3s 1.1s infinite">Ir·Os·Re·Ru·Rh·Pd·Cd·Hg·Tl</text>
+    <text class="col" x="228" y="10" style="animation: fall1 3.9s 2.3s infinite">Sc·Y·Lu·Yb·Tm·Er·Ho·Tb·Gd</text>
+    <text class="col" x="258" y="10" style="animation: fall2 5.0s 0.6s infinite">Si·Mo·W·Ti·Ge·Fe·Cu·Zn·Al</text>
+    <text class="col" x="288" y="10" style="animation: fall0 4.6s 1.8s infinite">Bi·In·Ga·Sn·Pb·Au·Ag·Pt·Ni</text>
+    <text class="col" x="318" y="10" style="animation: fall1 3.7s 0.9s infinite">Te·Se·S·P·B·N·C·H·O·F·Cl</text>
+    <text class="col" x="348" y="10" style="animation: fall2 4.9s 2.1s infinite">Hf·Zr·Ta·Nb·V·Cr·Mn·Co·Re</text>
+    <text class="col" x="378" y="10" style="animation: fall0 5.4s 0.3s infinite">La·Nd·Sm·Eu·Gd·Tb·Dy·Ho·Er</text>
+    <text class="col" x="408" y="10" style="animation: fall1 4.2s 1.5s infinite">Ba·Sr·Ca·Mg·Be·Li·Na·K·Cs</text>
+    <text class="col" x="438" y="10" style="animation: fall2 3.6s 0.8s infinite">Os·Ir·Ru·Rh·Pd·Pt·Au·Ag·Cd</text>
+    <text class="col" x="468" y="10" style="animation: fall0 5.1s 2.4s infinite">Si·Ge·Ti·Fe·Mo·W·Cu·Zn·Al</text>
+    <text class="col" x="498" y="10" style="animation: fall1 4.5s 1.0s infinite">Pb·Bi·In·Ga·Sn·Hf·Zr·Ta·Nb</text>
+    <text class="col" x="528" y="10" style="animation: fall2 3.4s 1.7s infinite">Se·Te·S·O·N·C·H·P·B·F·Si</text>
+    <text class="col" x="558" y="10" style="animation: fall0 4.8s 0.5s infinite">La·Ce·Nd·Sm·Eu·Gd·Y·Lu·Sc</text>
+    <text class="col" x="588" y="10" style="animation: fall1 5.3s 2.0s infinite">Sr·Ba·Ca·Mg·Li·Na·K·Rb·Cs</text>
+    <text class="col" x="618" y="10" style="animation: fall2 4.0s 1.2s infinite">Mo·W·Ti·Ge·Fe·Cu·Ni·Co·Cr</text>
+    <text class="col" x="648" y="10" style="animation: fall0 3.3s 0.1s infinite">Bi·Sb·In·Ga·Sn·Pb·Au·Ag·Pt</text>
+  </g>
+
+  <text class="line1" x="340" y="148" text-anchor="middle" font-family="Georgia, serif" font-size="36" font-weight="600" fill="#2C4A5A" letter-spacing="1">I'm Jiaxin</text>
+  <text class="line2" x="340" y="148" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="400" fill="#4A7A94" font-style="italic">— you can call me Jessy.</text>
+  <text class="line3" x="340" y="148" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="400" fill="#6A9FB5" letter-spacing="4">she/her</text>
+  <text class="line4" x="340" y="148" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="400" fill="#4A7A94" letter-spacing="1">materials × microelectronics</text>
+
+</svg>
