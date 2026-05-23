@@ -1,11 +1,11 @@
-<svg width="100%" viewBox="0 0 680 280" xmlns="http://www.w3.org/2000/svg" role="img">
+<svg width="100%" viewBox="0 0 680 140" xmlns="http://www.w3.org/2000/svg" role="img">
   <title>JiaxinLin profile header</title>
   <desc>Matrix rain of element symbols with profile text overlay</desc>
 
   <style>
-    @keyframes fall0 { 0%{opacity:0;transform:translateY(-20px)} 10%{opacity:0.35} 80%{opacity:0.18} 100%{opacity:0;transform:translateY(260px)} }
-    @keyframes fall1 { 0%{opacity:0;transform:translateY(-20px)} 15%{opacity:0.28} 75%{opacity:0.15} 100%{opacity:0;transform:translateY(260px)} }
-    @keyframes fall2 { 0%{opacity:0;transform:translateY(-20px)} 20%{opacity:0.32} 85%{opacity:0.12} 100%{opacity:0;transform:translateY(260px)} }
+    @keyframes fall0 { 0%{opacity:0;transform:translateY(-20px)} 10%{opacity:0.35} 80%{opacity:0.18} 100%{opacity:0;transform:translateY(140px)} }
+    @keyframes fall1 { 0%{opacity:0;transform:translateY(-20px)} 15%{opacity:0.28} 75%{opacity:0.15} 100%{opacity:0;transform:translateY(140px)} }
+    @keyframes fall2 { 0%{opacity:0;transform:translateY(-20px)} 20%{opacity:0.32} 85%{opacity:0.12} 100%{opacity:0;transform:translateY(140px)} }
     .col { font-family: monospace; font-size: 13px; fill: #6A9FB5; writing-mode: vertical-rl; animation-timing-function: linear; animation-iteration-count: infinite; }
 
     @keyframes typing {
@@ -27,7 +27,7 @@
     @keyframes show4 { 0%{opacity:0} 74%{opacity:0} 77%{opacity:1} 97%{opacity:1} 100%{opacity:0} }
   </style>
 
-  <rect width="680" height="280" fill="#ffffff"/>
+  <rect width="680" height="140" fill="#ffffff"/>
 
   <g opacity="0.7">
     <text class="col" x="18"  y="10" style="animation: fall0 4.1s 0.0s infinite">Si·Ge·Ti·Fe·Mo·W·Cu·Zn·Al</text>
@@ -54,9 +54,9 @@
     <text class="col" x="648" y="10" style="animation: fall0 3.3s 0.1s infinite">Bi·Sb·In·Ga·Sn·Pb·Au·Ag·Pt</text>
   </g>
 
-  <text class="line1" x="340" y="148" text-anchor="middle" font-family="Georgia, serif" font-size="36" font-weight="600" fill="#2C4A5A" letter-spacing="1">I'm Jiaxin</text>
-  <text class="line2" x="340" y="148" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="400" fill="#4A7A94" font-style="italic">— you can call me Jessy.</text>
-  <text class="line3" x="340" y="148" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="400" fill="#6A9FB5" letter-spacing="4">she/her</text>
-  <text class="line4" x="340" y="148" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="400" fill="#4A7A94" letter-spacing="1">materials × microelectronics</text>
+  <text class="line1" x="340" y="75" text-anchor="middle" font-family="Georgia, serif" font-size="36" font-weight="600" fill="#2C4A5A" letter-spacing="1">I'm Jiaxin</text>
+  <text class="line2" x="340" y="75" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="400" fill="#4A7A94" font-style="italic">— you can call me Jessy.</text>
+  <text class="line3" x="340" y="75" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="400" fill="#6A9FB5" letter-spacing="4">she/her</text>
+  <text class="line4" x="340" y="75" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="400" fill="#4A7A94" letter-spacing="1">materials × microelectronics</text>
 
 </svg>
