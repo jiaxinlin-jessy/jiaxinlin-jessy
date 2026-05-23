@@ -4,7 +4,7 @@
 
 # JiaxinLin (林嘉馨)
 
-**Sun Yat-sen University (中山大学)** · Materials Science & Microelectronics · Shenzhen
+**Sun Yat-sen University (中山大学)** · Materials Science (minor: Microelectronics) · Shenzhen
 
 </div>
 
@@ -12,12 +12,7 @@
 
 ### About Me
 
-I'm an undergraduate researcher passionate about the intersection of **neuromorphic devices**, **semiconductor physics**, and **AI-driven materials design**. My work spans from engineering perovskite interfaces with machine learning to exploring quantum transport phenomena in next-generation device architectures.
-
-- 🧠 **Primary interest:** Neuromorphic & functional devices for brain-inspired computing
-- ⚡ **Device physics:** QAHE, anomalous Hall effect, thin-film semiconductors
-- 🔬 **Materials:** Perovskite solar cells & photodetectors, functional oxides
-- 🤖 **Methods:** ML/RL for materials screening, FEM simulation (COMSOL), first-principles (VASP)
+Undergraduate researcher at SYSU, building intuition across devices, materials, and computation. Drawn to neuromorphic systems and the physics that makes them possible.
 
 ---
 
@@ -80,23 +75,10 @@ Course labs for AI-Assisted Materials Design @ SYSU School of Materials. Score: 
 
 ---
 
-### Stats
-
-<div align="left">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jiaxinlin-jessy&layout=compact&theme=default&hide_border=true&langs_count=6)
-
-</div>
-
-<div align="left">
-
-[![Starstruck](https://img.shields.io/badge/Achievement-Starstruck%20⭐-FFB800?style=flat-square&logo=github&logoColor=white)](https://github.com/jiaxinlin-jessy?tab=achievements)
-
-</div>
-
----
-
 ### Contact
 
 📧 [linjx227@mail2.sysu.edu.cn](mailto:linjx227@mail2.sysu.edu.cn)
+
+💬 ![WeChat](https://img.shields.io/badge/WeChat-2029186172-07C160?style=flat-square&logo=wechat&logoColor=white)
+
 🌐 Personal website — *coming soon*
