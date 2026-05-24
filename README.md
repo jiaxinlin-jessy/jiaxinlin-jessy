@@ -48,7 +48,7 @@ Theoretical notes & coursework for Computational Materials Science (Spring 2026)
 
 **[🤖 AI-assisted-Materials-Design-SYSU-2025](https://github.com/jiaxinlin-jessy/AI-assisted-Materials-Design-SYSU-2025)**
 
-Course labs for AI-Assisted Materials Design @ SYSU School of Materials. Score: **98/100**. Covers Materials Project API, linear ML, clustering, and neural network-based cohesive energy prediction.
+Course labs for AI-Assisted Materials Design @ SYSU School of Materials. Score: **98/100**. Rank **1st**. Covers Materials Project API, linear ML, clustering, and neural network-based cohesive energy prediction.
 
 `Python` `Neural Networks` `Materials Project` `Jupyter`
 
