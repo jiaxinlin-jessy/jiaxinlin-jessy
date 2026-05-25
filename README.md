@@ -21,16 +21,15 @@ I'm currently a senior undergraduate student at Sun Yat-sen University and I'm l
 ---
 
 ### Featured Projects
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**[🧪 perovskite-passivation-ml](https://github.com/jiaxinlin-jessy/perovskite-passivation-ml)**
+**[🖥️ ysyx-workbench](https://github.com/jiaxinlin-jessy/ysyx-workbench)**
 
-ML & reinforcement learning pipeline for screening and generating HTL/perovskite interface passivation agents. Achieves **PCE = 17.45%** with AI-designed molecules.
+RISC-V emulator (NEMU) with GDB-style debugger for the One Student One Chip (ysyx) program. PA1 complete. Currently working through the curriculum...
 
-`Python` `Machine Learning` `Perovskite` `Solar Cells`
+`C` `RISC-V` `Systems` `Emulator`
 
 </td>
 <td width="50%" valign="top">
@@ -46,11 +45,31 @@ Theoretical notes & coursework for Computational Materials Science (Spring 2026)
 <tr>
 <td width="50%" valign="top">
 
+**[🧪 perovskite-passivation-ml](https://github.com/jiaxinlin-jessy/perovskite-passivation-ml)**
+
+ML & reinforcement learning pipeline for screening and generating HTL/perovskite interface passivation agents. Achieves **PCE = 17.45%** with AI-designed molecules.
+
+`Python` `Machine Learning` `Perovskite` `Solar Cells`
+
+</td>
+<td width="50%" valign="top">
+
 **[🤖 AI-assisted-Materials-Design-SYSU-2025](https://github.com/jiaxinlin-jessy/AI-assisted-Materials-Design-SYSU-2025)**
 
 Course labs for AI-Assisted Materials Design @ SYSU School of Materials. Score: **98/100**. Rank **1st**. Covers Materials Project API, linear ML, clustering, and neural network-based cohesive energy prediction.
 
 `Python` `Neural Networks` `Materials Project` `Jupyter`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[🏅 2025-MCM-ICM-Problem-C](https://github.com/jiaxinlin-jessy/2025-MCM-ICM-Problem-C)**
+
+Olympic medal prediction using Word2Vec and Random Forest regression. Awarded **Meritorious Winner** at the 2025 MCM/ICM competition.
+
+`Python` `Word2Vec` `Random Forest` `Mathematical Modeling`
 
 </td>
 <td width="50%" valign="top">
