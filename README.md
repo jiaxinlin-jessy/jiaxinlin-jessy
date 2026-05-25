@@ -16,7 +16,7 @@
 
 ### About Me
 
-Undergraduate researcher at SYSU, building intuition across devices, materials, and computation. Drawn to neuromorphic systems and the physics that makes them possible.
+I'm currently a senior undergraduate student at Sun Yat-sen University and I'm looking for funded Ph.D. position.
 
 ---
 
