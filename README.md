@@ -6,7 +6,7 @@
 
 <div align="center">
 
-# JiaxinLin (林嘉馨)
+# Jiaxin Lin (林嘉馨)
 
 **Sun Yat-sen University (中山大学)** · Materials (minor: Microelectronics) · Shenzhen
 
